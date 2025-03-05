@@ -1,0 +1,1 @@
+package com.xcmg.i18n.test;
