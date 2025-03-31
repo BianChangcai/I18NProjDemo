@@ -12,3 +12,4 @@ Code repository: https://github.com/BianChangcai/I18NProjDemo
     zh: http://127.0.0.1:8080/greeting?lang=en
     Attn.: Including placeholder filling for Resource Bundle files
     Applicable scenarios: Front and Back end separation
+
